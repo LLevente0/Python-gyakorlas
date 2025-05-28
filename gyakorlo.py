@@ -72,8 +72,7 @@ def listazas():
             break
 
 
-
-
+    print(szamok)
 listazas()
 
 
